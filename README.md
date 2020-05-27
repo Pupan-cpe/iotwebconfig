@@ -11,7 +11,7 @@ for ESP32
 
 #Credits
 Although IotWebConf started without being influenced by any other solutions, in the final code you can find some segments borrowed from the WiFiManager library.
-https://github.com/prampec/IotWebConf
+https://github.com/prampec/IotWebConf <br>
 https://github.com/tzapu/WiFiManager
 
 Thanks to all contributors providing patches for the library!
