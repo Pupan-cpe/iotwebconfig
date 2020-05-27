@@ -2,7 +2,7 @@
 #edit 05/27/2020 
 from Pupan Phonkaew 
 computer Engineering| NPU
-# IotWebConf [![Build Status](https://github.com/pupan-cpe)](https://facebook.com/pupan)
+# IotWebConf [![Build Status](https://travis-ci.org/prampec/IotWebConf.svg?branch=master)](https://facebook.com/pupan)
 
 ## Summary
 IotWebConf is an Arduino library for ESP8266/ESP32 to provide a non-blocking standalone WiFi/AP web configuration portal.
