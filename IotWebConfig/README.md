@@ -81,5 +81,6 @@ to ESP32. There are two major problems.
 ## Credits
 Although IotWebConf started without being influenced by any other solutions, in the final code you can find some segments borrowed from the WiFiManager library.
   - https://github.com/tzapu/WiFiManager
+  - https://github.com/prampec/IotWebConf
 
 Thanks to [all contributors](/prampec/IotWebConf/graphs/contributors) providing patches for the library!
