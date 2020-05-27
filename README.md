@@ -10,7 +10,7 @@ for ESP32
 <br>4.คุณต้องการเปลี่ยนการกำหนดค่าที่รันไทม์ - ไม่มีปัญหา IotWebConf ช่วยให้พอร์ทัลการตั้งค่าสามารถทำงานได้แม้หลังจากการเชื่อมต่อ WiFi เสร็จสิ้นแล้ว ในสถานการณ์นี้คุณต้องป้อนชื่อผู้ใช้ "ผู้ดูแลระบบ" และรหัสผ่าน (กำหนดค่าแล้ว) เพื่อเข้าสู่พอร์ทัลปรับแต่ง โปรดทราบว่ารหัสผ่านที่ให้ไว้สำหรับการตรวจสอบความถูกต้องจะไม่ถูกซ่อนจากอุปกรณ์ที่เชื่อมต่อกับเครือข่าย WiFi เดียวกัน คุณอาจต้องการบังคับให้บูตเครื่องใหม่เพื่อใช้การเปลี่ยนแปลงของคุณ
 
 #Credits
-Although IotWebConf started without being influenced by any other solutions, in the final code you can find some segments borrowed from the WiFiManager library.
+Although IotWebConf started without being influenced by any other solutions, in the final code you can find some segments borrowed from the WiFiManager library.<br>
 https://github.com/prampec/IotWebConf <br>
 https://github.com/tzapu/WiFiManager
 
