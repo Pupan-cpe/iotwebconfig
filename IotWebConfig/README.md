@@ -1,7 +1,7 @@
 
 #edit 05/27/2020 
 from Pupan Phonkaew 
-computer Engineering| NPU
+Computer Engineering| NPU
 # IotWebConf [![Build Status](https://travis-ci.org/prampec/IotWebConf.svg?branch=master)](https://facebook.com/pupan)
 
 ## Summary
